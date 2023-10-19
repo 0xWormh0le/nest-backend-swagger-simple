@@ -1,0 +1,5 @@
+[
+  {
+    "id": 1, "assemblyId": "ai1", "locusName": "ln1", "publicLocusName": "pln1", "chromosome": "cs1", "strand": "str1", "locusStart": 1, "locusStop": 1, "memberCount": 1
+  }
+]
